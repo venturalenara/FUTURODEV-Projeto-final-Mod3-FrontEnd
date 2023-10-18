@@ -1,0 +1,112 @@
+* {
+  background-color: ghostwhite;
+}
+
+#FormularioLoginUsuario,
+#FormularioCadastroUsuario {
+  background-color: ghostwhite;
+  padding: 30px;
+  border-radius: 2px;
+}
+
+.form-control {
+  background-color: ghostwhite;
+}
+
+.bg-success,
+.btn-success {
+  background-color: #2499ae !important;
+  box-shadow: none !important;
+  outline: none !important;
+  border-color: #2499ae !important;
+}
+
+.btn-success:hover {
+  background-color: #1c8294 !important;
+  border-color: #1c8294;
+}
+
+.btn-outline-danger {
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.formulario-borda {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.card-img-top {
+  height: 370px;
+}
+
+.footer-wrapper {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.fundoUsuario {
+  background-image: url("./imagens/fundo_login.jpg");
+  background-size: cover;
+  background-position: right;
+}
+.fundo-color {
+  background-color: #ccc;
+}
+.full-height {
+  min-height: 100vh;
+}
+
+#FormularioLoginUsuario {
+  width: 300px;
+  margin-left: auto;
+}
+
+#FormularioCadastroUsuario {
+  width: 300px;
+  margin-left: auto;
+}
+
+.navbar-light {
+  background-color: ghostwhite;
+}
+
+.text-shadow {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.text-erro {
+  color: #941c1c;
+  font-weight: bold;
+}
+
+.border-primary,
+.h1-primary {
+  border-color: #2c393b !important;
+  color: #2c393b;
+}
+
+.btn-green {
+  background-color: #2dc443 !important;
+  border-color: #2dc443 !important;
+}
+
+.brilho-dashboard:hover {
+  border: 2px solid #2499ae;
+}
+
+footer {
+  background-color: ghostwhite;
+}
+
+a {
+  color: #2499ae;
+}
+
+a:hover {
+  color: #1c8294;
+}
